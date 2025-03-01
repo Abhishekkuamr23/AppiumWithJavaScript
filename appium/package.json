@@ -1,0 +1,20 @@
+{
+  "name": "appium",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^5.0.1",
+    "chai": "^5.1.2",
+    "jest": "^29.7.0",
+    "mocha": "^11.0.1",
+    "wd": "^1.14.0",
+    "webdriverio": "^9.2.1"
+  }
+}
